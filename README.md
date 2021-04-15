@@ -1,4 +1,6 @@
-## Android-Firebase-Messaging
+<h1 align="center">
+  Android Firebase Messaging
+</h1>
 
 [Get Started With Firebase](https://firebase.google.com/docs/android/setup)
 
